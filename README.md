@@ -1,6 +1,8 @@
 # hello-world
-Just a repo
+This is just a test repo
 
-it's just in order to make a commit
-
+It's just in order to make some commits:
+1. line added on the master
 2. Line added on the readme-edits branch
+
+
